@@ -1,0 +1,75 @@
+{
+  "_version" : "2.1.0",
+  "_songName" : "Say It ",
+  "_songSubName" : "feat. Tove Lo",
+  "_songAuthorName" : "Flume",
+  "_levelAuthorName" : "SkilljoyJr",
+  "_beatsPerMinute" : 150,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0.5,
+  "_previewStartTime" : 12,
+  "_previewDuration" : 10,
+  "_songFilename" : "Flume - Say It feat. Tove Lo edit.ogg",
+  "_coverImageFilename" : "Screenshot_2338.png",
+  "_environmentName" : "TimbalandEnvironment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_environmentNames" : [
+    "TimbalandEnvironment"
+  ],
+  "_colorSchemes" : [
+  ],
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Standard",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "Hard",
+          "_difficultyRank" : 5,
+          "_beatmapFilename" : "HardStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : -0.5,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_suggestions" : [
+              "Chroma"
+            ],
+            "_requirements" : [
+              "Noodle Extensions"
+            ],
+            "_colorLeft" : {"r":1,"g":0,"b":0.275},
+            "_colorRight" : {"r":0.505,"g":0,"b":1}
+          }
+        },
+        {
+          "_difficulty" : "ExpertPlus",
+          "_difficultyRank" : 9,
+          "_beatmapFilename" : "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : -0.5,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_suggestions" : [
+              "Chroma"
+            ],
+            "_requirements" : [
+              "Noodle Extensions"
+            ],
+            "_colorLeft" : {"r":1,"g":0,"b":0.275},
+            "_colorRight" : {"r":0.505,"g":0,"b":1}
+          }
+        }
+      ]
+    }
+  ],
+  "_customData" : {
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.12.844"
+      }
+    }
+  }
+}

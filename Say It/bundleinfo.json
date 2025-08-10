@@ -1,0 +1,3610 @@
+{
+  "materials": {
+    "explosionparticle": {
+      "path": "assets/claps/explosionparticle.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Size": {
+          "value": 700.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Opacity": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_MaskRef": {
+          "value": 4.35,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FlickerScalar": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "introfrfr": {
+      "path": "assets/intro but actually/introfrfr.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Size": {
+          "value": 910.6,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ID": {
+          "value": -0.48,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Zoom": {
+          "value": 0.533,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Flutter": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Light": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Hue": {
+          "value": 0.663,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Opacity": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_RingCompress": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AngleOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_BFC": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Swirl": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "intro": {
+      "path": "assets/intro/intro.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Size": {
+          "value": 910.6,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ID": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Zoom": {
+          "value": 0.832,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Flutter": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Light": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Hue": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Opacity": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_RingCompress": {
+          "value": 0.228,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AngleOffset": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "themat but matter": {
+      "path": "assets/mainbackground/themat but matter.mat",
+      "properties": {
+        "shader_master_label": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "shader_is_using_thry_editor": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "shader_locale": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "footer_youtube": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "footer_twitter": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "footer_patreon": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "footer_discord": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "footer_github": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ShaderUIWarning0": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ShaderUIWarning1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ForgotToLockMaterial": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ShaderOptimizerEnabled": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "GeometryShader_Enabled": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "Tessellation_Enabled": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Mode": {
+          "value": 3.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_mainCategory": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            0.03773582,
+            0.03773582,
+            0.03773582,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_ColorThemeIndex": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_MainTexUV": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_MainTexPan": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_MainPixelMode": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_MainTexStochastic": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_MainIgnoreTexAlpha": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_BumpMap": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_BumpMapPan": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_BumpMapUV": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_BumpScale": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_BumpMapStochastic": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AlphaMask": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_AlphaMaskPan": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_AlphaMaskUV": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_MainAlphaMaskMode": {
+          "value": 2.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AlphaMaskBlendStrength": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AlphaMaskValue": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AlphaMaskInvert": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_Alpha": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AlphaForceOpaque": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AlphaMod": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AlphaGlobalMask": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AlphaGlobalMaskBlendType": {
+          "value": 2.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_Alpha": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_lightingCategory": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_PoiLightData": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingAOMaps": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_LightingAOMapsPan": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_LightingAOMapsUV": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightDataAOStrengthR": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightDataAOStrengthG": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightDataAOStrengthB": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightDataAOStrengthA": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightDataAOGlobalMaskR": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightDataAOGlobalMaskBlendTypeR": {
+          "value": 2.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingDetailShadowMaps": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_LightingDetailShadowMapsPan": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_LightingDetailShadowMapsUV": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingDetailShadowStrengthR": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingDetailShadowStrengthG": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingDetailShadowStrengthB": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingDetailShadowStrengthA": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingAddDetailShadowStrengthR": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingAddDetailShadowStrengthG": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingAddDetailShadowStrengthB": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingAddDetailShadowStrengthA": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightDataDetailShadowGlobalMaskR": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightDataDetailShadowGlobalMaskBlendTypeR": {
+          "value": 2.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingShadowMasks": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_LightingShadowMasksPan": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_LightingShadowMasksUV": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingShadowMaskStrengthR": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingShadowMaskStrengthG": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingShadowMaskStrengthB": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingShadowMaskStrengthA": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightDataShadowMaskGlobalMaskR": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightDataShadowMaskGlobalMaskBlendTypeR": {
+          "value": 2.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_LightDataBasePass": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingColorMode": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingMapMode": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_LightDataSDF": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightDataSDFMap": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_LightDataSDFMapPan": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_LightDataSDFMapUV": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightDataSDFMapLOD": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightDataSDFBlendY": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_LightDataSDF": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingDirectionMode": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightngForcedDirection": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_LightingViewDirOffsetPitch": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingViewDirOffsetYaw": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingForceColorEnabled": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingForcedColor": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_LightingForcedColorThemeIndex": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Unlit_Intensity": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingCapEnabled": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingCap": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingMinLightBrightness": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingIndirectUsesNormals": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingCastedShadows": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingMonochromatic": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingVertexLightingEnabled": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingMirrorVertexLightingEnabled": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_LightDataBasePass": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_LightDataAddPass": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingAdditiveEnable": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_DisableDirectionalInAdd": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingAdditiveLimited": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingAdditiveLimit": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingAdditiveCastedShadows": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingAdditiveMonochromatic": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingAdditivePassthrough": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_LightDataAddPass": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_LightDataDebug": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightDataDebugEnabled": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingDebugVisualize": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_LightDataDebug": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_PoiLightData": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_PoiShading": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ShadingEnabled": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingMode": {
+          "value": 5.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingShadowColor": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_ForceFlatRampedLightmap": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ShadowStrength": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingIgnoreAmbientColor": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_ShadingAddPass": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingAdditiveType": {
+          "value": 3.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingAdditiveGradientStart": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_LightingAdditiveGradientEnd": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_ShadingAddPass": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_ShadingGlobalMask": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ShadingRampedLightMapApplyGlobalMaskIndex": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ShadingRampedLightMapApplyGlobalMaskBlendType": {
+          "value": 2.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ShadingRampedLightMapInverseApplyGlobalMaskIndex": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ShadingRampedLightMapInverseApplyGlobalMaskBlendType": {
+          "value": 2.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_ShadingGlobalMask": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_PoiShading": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_OutlineCategory": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_specialFXCategory": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_emission1Options": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableEmission1": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionMask1": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_EmissionMask1Pan": {
+          "value": [
+            0.05,
+            -0.05,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_EmissionMask1UV": {
+          "value": 7.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionMask1Channel": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionMaskInvert1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionMask1GlobalMask": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionMask1GlobalMaskBlendType": {
+          "value": 7.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionColor1": {
+          "value": [
+            0.8980392,
+            0.06274509,
+            0.788780153,
+            0.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_EmissionColor1ThemeIndex": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionMap1": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_EmissionMap1Pan": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_EmissionMap1UV": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionStrength1": {
+          "value": 0.1,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionBaseColorAsMap1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionReplace1": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionFluorescence1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_EmissionHueShift1": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionHueShiftEnabled1": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionHueShiftColorSpace1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionHueSelectOrShift1": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionSaturation1": {
+          "value": 4.83,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionHueShift1": {
+          "value": 0.156,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionHueShiftSpeed1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_EmissionHueShift1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_EmissionCenterOut1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionCenterOutEnabled1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionCenterOutSpeed1": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_EmissionCenterOut1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_EmissionLightBased1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableGITDEmission1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GITDEWorldOrMesh1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GITDEMinEmissionMultiplier1": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GITDEMaxEmissionMultiplier1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GITDEMinLight1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GITDEMaxLight1": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_EmissionLightBased1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_EmissionBlinking1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionBlinkingEnabled1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissiveBlink_Min1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissiveBlink_Max1": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissiveBlink_Velocity1": {
+          "value": 4.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionBlinkingOffset1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_EmissionBlinking1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_ScrollingEmission1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ScrollingEmission1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionScrollingUseCurve1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionScrollingCurve1": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_EmissionScrollingVertexColor1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissiveScroll_Direction1": {
+          "value": [
+            0.0,
+            -10.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_EmissiveScroll_Width1": {
+          "value": 10.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissiveScroll_Velocity1": {
+          "value": 10.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissiveScroll_Interval1": {
+          "value": 20.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionScrollingOffset1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_ScrollingEmission1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionAL1Enabled": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_EmissionAL1Multiply": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionAL1MultipliersBand": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionAL1Multipliers": {
+          "value": [
+            1.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "s_end_EmissionAL1Multiply": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_EmissionAL1Add": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionAL1StrengthBand": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EmissionAL1StrengthMod": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "s_end_EmissionAL1Add": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_EmissionAL1COut": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AudioLinkEmission1CenterOutBand": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AudioLinkEmission1CenterOut": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_AudioLinkEmission1CenterOutSize": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AudioLinkEmission1CenterOutDuration": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_EmissionAL1COut": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_emission1Options": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_glitter": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterEnable": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterUV": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterMode": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterShape": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterBlendType": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterUseNormals": {
+          "value": 0.027,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterLayers": {
+          "value": 4.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_GlitterColorAndShape": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterTexture": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_GlitterColorMap": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_GlitterColorMapPan": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_GlitterColorMapUV": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterColor": {
+          "value": [
+            0.9622642,
+            0.9622642,
+            0.9622642,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_GlitterColorThemeIndex": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterUseSurfaceColor": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterRandomColors": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterMinMaxSaturation": {
+          "value": [
+            0.8,
+            1.0,
+            0.0,
+            1.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_GlitterMinMaxBrightness": {
+          "value": [
+            0.8,
+            1.0,
+            0.0,
+            1.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "s_end_GlitterColorAndShape": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_GlitterPositionSize": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterFrequency": {
+          "value": 25.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterSize": {
+          "value": 0.84,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterUVPanning": {
+          "value": [
+            0.005,
+            0.01,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_GlitterRandomLocation": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterRandomSize": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterMinMaxSize": {
+          "value": [
+            0.1,
+            0.5,
+            0.0,
+            1.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "s_end_GlitterPositionSize": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_GlitterSparkleControl": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterMinBrightness": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterBrightness": {
+          "value": 2.9,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterSpeed": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterAngleRange": {
+          "value": 63.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterBias": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterCenterSize": {
+          "value": 0.08,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterContrast": {
+          "value": 282.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterJaggyFix": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_GlitterSparkleControl": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_GlitterRotationSection": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterRandomRotation": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterTextureRotation": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterRandomRotationSpeed": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "s_end_GlitterRotationSection": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_GlitterMask": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterMask": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_GlitterMaskPan": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_GlitterMaskUV": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterMaskChannel": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterMaskInvert": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterHideInShadow": {
+          "value": 0.8,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterScaleWithLighting": {
+          "value": 0.8,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterMaskGlobalMask": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterMaskGlobalMaskBlendType": {
+          "value": 2.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_GlitterMask": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_GlitterHueShiftSection": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterHueShiftEnabled": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterHueShiftColorSpace": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterHueSelectOrShift": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterHueShiftSpeed": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterHueShift": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_GlitterHueShiftSection": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_GlitterAudioLink": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterALEnabled": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterALAlphaAddBand": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterALAlphaAdd": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_GlitterALMaxBrightnessBand": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterALMaxBrightnessAdd": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_GlitterALSizeAddBand": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterALSizeAdd": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_GlitterALChronoSparkleSpeedType": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterALChronoSparkleSpeedBand": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterALChronoSparkleSpeed": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterALChronoRotationSpeedType": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterALChronoRotationSpeedBand": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlitterALChronoRotationSpeed": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_GlitterAudioLink": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_glitter": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_truchet": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableTruchet": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetUV": {
+          "value": 7.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetBlendType": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetPanOffset": {
+          "value": [
+            0.1,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_TruchetDensity": {
+          "value": 7.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetColor": {
+          "value": [
+            0.8450322,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_TruchetColorThemeIndex": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_TruchetTexPan": {
+          "value": [
+            1.0,
+            2.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_TruchetMask": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_TruchetMaskPan": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_TruchetMaskUV": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetMaskChannel": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetMaskInvert": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetMaskGlobalMask": {
+          "value": 9.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetMaskGlobalMaskBlendType": {
+          "value": 2.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetMaskIntensity": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetEmissionStrength": {
+          "value": 20.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetThiccness": {
+          "value": 0.229,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetEdgeSharpness": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetAlpha": {
+          "value": 0.287,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetOverrideAlpha": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_TruchetudioLink": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetHideWhenNoAL": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetALEmissionToggle": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetALEmissionBand": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetALEmission": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_TruchetALAlphaToggle": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetALAlphaBand": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetALAlpha": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_TruchetChronoPanToggle": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetChronoPanBand": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetChronoPanType": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TruchetChronoPanSpeed": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "m_end_TruchetudioLink": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_truchet": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_vertexCategory": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_modifierCategory": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_PoiGlobalCategory": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_GlobalThemes": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_GlobalThemeColor0": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlobalThemeColor0": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_GlobalThemeHue0": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlobalThemeHueSpeed0": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlobalThemeSaturation0": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlobalThemeValue0": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_GlobalThemeColor0": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_GlobalThemeColor1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlobalThemeColor1": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_GlobalThemeHue1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlobalThemeHueSpeed1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlobalThemeSaturation1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlobalThemeValue1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_GlobalThemeColor1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_GlobalThemeColor2": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlobalThemeColor2": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_GlobalThemeHue2": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlobalThemeHueSpeed2": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlobalThemeSaturation2": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlobalThemeValue2": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_GlobalThemeColor2": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_GlobalThemeColor3": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlobalThemeColor3": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_GlobalThemeHue3": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlobalThemeHueSpeed3": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlobalThemeSaturation3": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GlobalThemeValue3": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_GlobalThemeColor3": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_GlobalThemes": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_GlobalMask": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_GlobalMaskModifiers": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_GlobalMaskModifiers": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_GlobalMask": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_PoiGlobalCategory": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_PoiUVCategory": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_Stochastic": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StochasticMode": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_deliot": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StochasticDeliotHeitzDensity": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_deliot": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_hextile": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StochasticHexGridDensity": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StochasticHexRotationStrength": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StochasticHexFallOffContrast": {
+          "value": 0.6,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StochasticHexFallOffPower": {
+          "value": 7.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_hextile": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_Stochastic": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_uvLocalWorld": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_UVModLocalPos0": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_UVModLocalPos1": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_UVModWorldPos0": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_UVModWorldPos1": {
+          "value": 2.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_uvLocalWorld": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_uvPanosphere": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StereoEnabled": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_PanoUseBothEyes": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_uvPanosphere": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_uvPolar": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_PolarUV": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_PolarCenter": {
+          "value": [
+            0.5,
+            0.5,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_PolarRadialScale": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_PolarLengthScale": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_PolarSpiralPower": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_uvPolar": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_PoiUVCategory": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_PoiPostProcessingCategory": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_PPAnimations": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_PPHelp": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_PPLightingMultiplier": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_PPLightingAddition": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_PPEmissionMultiplier": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_PPFinalColorMultiplier": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_PPAnimations": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_PoiPostProcessingCategory": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_thirdpartyCategory": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_BeatsaberOptions": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_BSSEnabled": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_BSSSpacer1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_BSSHelpBox1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_BSSHelpBox2": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_BSSSpacer2": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_BSSSpacer3": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_start_CCopt": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_CustomColors": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_BSSHelpBox3": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "s_end_CCopt": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_BeatsaberOptions": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_renderingCategory": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Cull": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ZTest": {
+          "value": 4.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ZWrite": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ColorMask": {
+          "value": 15.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_OffsetFactor": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_OffsetUnits": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_RenderingReduceClipDistance": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ZClip": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_IgnoreFog": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FlipBackfaceNormals": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "Instancing": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_RenderingEarlyZEnabled": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_WorldAOBlocker": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_RenderingAOBlockerNote": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_RenderingAOBlockerEnabled": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_RenderingAOBlockerUVChannel": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_RenderingAOBlockerFlipNormal": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_WorldAOBlocker": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_blending": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_BlendOp": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_SrcBlend": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_DstBlend": {
+          "value": 10.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AddBlendOp": {
+          "value": 4.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AddSrcBlend": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AddDstBlend": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_alphaBlending": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_BlendOpAlpha": {
+          "value": 4.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_SrcBlendAlpha": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_DstBlendAlpha": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AddBlendOpAlpha": {
+          "value": 4.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AddSrcBlendAlpha": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AddDstBlendAlpha": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_alphaBlending": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_blending": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_StencilPassOptions": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StencilType": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StencilRef": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StencilReadMask": {
+          "value": 255.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StencilWriteMask": {
+          "value": 255.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StencilPassOp": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StencilFailOp": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StencilZFailOp": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StencilCompareFunction": {
+          "value": 8.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_StencilPassBackOptions": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FFBFStencilHelp0": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StencilBackPassOp": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StencilBackFailOp": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StencilBackZFailOp": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StencilBackCompareFunction": {
+          "value": 8.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_StencilPassBackOptions": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_start_StencilPassFrontOptions": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FFBFStencilHelp1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StencilFrontPassOp": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StencilFrontFailOp": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StencilFrontZFailOp": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_StencilFrontCompareFunction": {
+          "value": 8.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_StencilPassFrontOptions": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "m_end_StencilPassOptions": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "blur": {
+      "path": "assets/post-fx/blur.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "radius": {
+          "value": 10.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "resolution": {
+          "value": 800.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "chromaticaberration": {
+      "path": "assets/post-fx/chromaticaberration.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_IntensityX": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_IntensityY": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "kickwow": {
+      "path": "assets/post-fx/kickwow.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Intensity": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        }
+      }
+    },
+    "swirly sphere mat": {
+      "path": "assets/swirly sphere/swirly sphere mat.mat",
+      "properties": {
+        "_Brightness": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Twist": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_tanPos": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_yRotate": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_xRotate": {
+          "value": 0.1,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Hue1": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Hue2": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_cShift": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_angle2": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_angle3": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_powNuller": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_spiral2Coeff": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_spiral3Coeff": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "wow": {
+      "path": "assets/universe in mesh/wow.mat",
+      "properties": {
+        "UFPS": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "B": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Cull": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ZWrite": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_fs": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_fe": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_tc": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_samples": {
+          "value": 2.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_scale": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ms": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_mo": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_sms": {
+          "value": 0.01,
+          "type": {
+            "Float": null
+          }
+        },
+        "_smo": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_dbs": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_s": {
+          "value": 0.117,
+          "type": {
+            "Float": null
+          }
+        },
+        "_lpow": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_lt": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_rspeed": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_roffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_near": {
+          "value": 0.1,
+          "type": {
+            "Float": null
+          }
+        },
+        "_far": {
+          "value": 2.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_appearfade": {
+          "value": 0.1,
+          "type": {
+            "Float": null
+          }
+        },
+        "_disappearfade": {
+          "value": 0.2,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            0.6509434,
+            0.59525317,
+            0.267132431,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_rb": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_rbo": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_rbs": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_v": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Src": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Dst": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    }
+  },
+  "prefabs": {
+    "explosions": "assets/claps/explosions.prefab",
+    "introscene": "assets/intro but actually/introscene.prefab",
+    "intro": "assets/intro/intro.prefab",
+    "mainbackground": "assets/mainbackground/mainbackground.prefab",
+    "swirly sphere": "assets/swirly sphere/swirly sphere.prefab",
+    "universe": "assets/universe in mesh/universe.prefab"
+  },
+  "bundleFiles": [
+    "C:/Users/Dylan/BSManager/BSInstances/1.40.4/Beat Saber_Data/CustomWIPLevels/Say It/bundleWindows2021.vivify",
+    "C:/Users/Dylan/BSManager/BSInstances/1.40.4/Beat Saber_Data/CustomWIPLevels/Say It/bundleWindows2019.vivify"
+  ],
+  "bundleCRCs": {
+    "_windows2021": 2875512882,
+    "_windows2019": 3853790510
+  },
+  "isCompressed": true
+}
