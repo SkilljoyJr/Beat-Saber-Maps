@@ -1,6 +1,7 @@
 # Beat-Saber-Maps
 Collection of assets used to make my maps for other people's viewing and use. No need to ask for permission to use assets, but feel free to reach out to me on my discord, singlefatherof0, if you have questions.
 
+
 Why I made this repo: 
 
 I've never been without guilt for using other's people work no matter how much I modify it. I at least want to disclose what I used and point to who I got something from and will do so here for now on. 
