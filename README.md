@@ -1,5 +1,5 @@
 # Beat-Saber-Maps
-Please read the README found within each song folder first!
+Please read the README found within each song folder first! There is a README with asset credits in each UnityAssets folder too.
 
 Collection of assets used to make my maps for other people's viewing and use. No need to ask for permission to use assets, but feel free to reach out to me on my discord, singlefatherof0, if you have questions.
 
