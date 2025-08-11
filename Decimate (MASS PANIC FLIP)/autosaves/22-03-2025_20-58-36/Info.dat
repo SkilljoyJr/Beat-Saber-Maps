@@ -1,0 +1,95 @@
+{
+  "_version" : "2.1.0",
+  "_songName" : "Decimate [MASS PANIC FLIP]",
+  "_songSubName" : "",
+  "_songAuthorName" : "Excision",
+  "_levelAuthorName" : "Rxerti, Skilljoyjr",
+  "_beatsPerMinute" : 150,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0,
+  "_previewStartTime" : 105,
+  "_previewDuration" : 15,
+  "_songFilename" : "Decimate-Mass-Panic-flip.ogg",
+  "_coverImageFilename" : "decimate cover.png",
+  "_environmentName" : "Dragons2Environment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_environmentNames" : [
+    "Dragons2Environment"
+  ],
+  "_colorSchemes" : [
+  ],
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Lawless",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "Expert",
+          "_difficultyRank" : 7,
+          "_beatmapFilename" : "ExpertLawless.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : 0,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_suggestions" : [
+              "Chroma"
+            ],
+            "_requirements" : [
+              "Noodle Extensions"
+            ],
+            "_difficultyLabel" : "Lawless Ex+"
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName" : "Standard",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "Expert",
+          "_difficultyRank" : 7,
+          "_beatmapFilename" : "ExpertStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : 0,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_suggestions" : [
+              "Chroma"
+            ],
+            "_requirements" : [
+              "Noodle Extensions"
+            ],
+            "_difficultyLabel" : "Ex+"
+          }
+        },
+        {
+          "_difficulty" : "ExpertPlus",
+          "_difficultyRank" : 9,
+          "_beatmapFilename" : "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : 0,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_suggestions" : [
+              "Chroma"
+            ],
+            "_requirements" : [
+              "Noodle Extensions"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "_customData" : {
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.9.690"
+      }
+    }
+  }
+}

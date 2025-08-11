@@ -1,0 +1,85 @@
+{
+  "materials": {
+    "bluepyromat": {
+      "path": "assets/materials/bluepyromat.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_OutColor": {
+          "value": [
+            0.8773585,
+            0.3020317,
+            0.144846857,
+            0.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_InColor": {
+          "value": [
+            0.9339623,
+            0.5315633,
+            0.171813786,
+            0.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Brightness": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "chromaticaberrationmat": {
+      "path": "assets/materials/chromaticaberrationmat.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_IntensityX": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_IntensityY": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    }
+  },
+  "prefabs": {
+    "pyro1": "assets/prefabs/pyro1.prefab",
+    "pyro2": "assets/prefabs/pyro2.prefab",
+    "pyro3": "assets/prefabs/pyro3.prefab",
+    "pyro4": "assets/prefabs/pyro4.prefab",
+    "pyro5": "assets/prefabs/pyro5.prefab",
+    "pyro6": "assets/prefabs/pyro6.prefab"
+  },
+  "bundleFiles": [
+    "C:/Users/Dylan/BSManager/BSInstances/1.40.4/Beat Saber_Data/CustomWIPLevels/New Folder - Copy - Copy/bundleAndroid2021.vivify",
+    "C:/Users/Dylan/BSManager/BSInstances/1.40.4/Beat Saber_Data/CustomWIPLevels/New Folder - Copy - Copy/bundleWindows2021.vivify",
+    "C:/Users/Dylan/BSManager/BSInstances/1.40.4/Beat Saber_Data/CustomWIPLevels/New Folder - Copy - Copy/bundleWindows2019.vivify"
+  ],
+  "bundleCRCs": {
+    "_android2021": 1601957255,
+    "_windows2021": 2881049445,
+    "_windows2019": 2344738967
+  },
+  "isCompressed": true
+}
