@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HelixMat
+  m_Shader: {fileID: 4800000, guid: 1753b8c57c7d54f4997a482a9262db6c, type: 3}
+  m_ShaderKeywords: DISTANCE_FOG _ZWRITE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Alpha: 0.5
+    - _AngleRainbowInfluence: 5
+    - _BlendOp: 0
+    - _Border: 0.1
+    - _BorderCutoff: -0.44
+    - _BorderNoiseAmount: 0.05
+    - _BorderNoiseScale: -12.29
+    - _BorderNoiseTimeStep: 0.01
+    - _Brightness: 0.4
+    - _BumpScale: 1
+    - _Clip: 0
+    - _Contrast: 0.5
+    - _CrackAmplitude: -2.32
+    - _CrackDistance: 1
+    - _CrackSharpness: 0.98
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _Cutout: 0
+    - _Darkness: 1.5
+    - _Debris: 0
+    - _Depth: 3
+    - _Desaturation: 0.3
+    - _DetailNormalMapScale: 1
+    - _DetailScale: 1
+    - _DistanceFogEnabled: 1
+    - _DstBlend: 0
+    - _FBM: 2
+    - _FadeDistanceEnd: 800
+    - _FadeDistanceStart: 500
+    - _Flutter: 0.1
+    - _FocalAmount: 2
+    - _FogDistance: 3.45
+    - _FogEnabled: 0
+    - _FogFar: 400
+    - _FogPower: 0.79
+    - _FogZEnd: 30
+    - _FogZStart: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Glow: 0
+    - _HeightFogEnabled: 0
+    - _HeightFogEnd: 10
+    - _HeightFogStart: 0
+    - _HeightOffset: 0
+    - _HueSaturation: 0.7
+    - _IOR: 1.45
+    - _IsInverted: 0
+    - _IsNote: 0
+    - _IsSaber: 0
+    - _LightBrightness: 0.7
+    - _LightRadius: 1300
+    - _LightingInfluence: 0.5
+    - _Metallic: 0
+    - _MixRainbow: 0.8
+    - _Mode: 0
+    - _NoiseRainbowInfluence: 2
+    - _NoiseScale: 0.5
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _ParticleTimeVariationAmount: 1
+    - _ParticleTimeVariationEnabled: 0
+    - _PerspectiveWarp: 1
+    - _Posterization: 4.67
+    - _Rainbow: 0
+    - _RainbowInfluence: 1
+    - _RainbowScale: 4
+    - _RainbowSpeed: 0.25
+    - _ScrollSpeed: 0.3
+    - _ShockwaveBrightness: 1
+    - _ShockwaveDistance: 10
+    - _ShockwaveWidth: 4
+    - _Simplex1Scale: 3
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _StencilComp: 8
+    - _StencilPass: 0
+    - _StencilRef: 0
+    - _StepNoise: 1
+    - _StepSize: 60
+    - _Steps: 16
+    - _SurfaceDistortion: 0.1
+    - _SurfaceScale: 3
+    - _TimeScale: 2
+    - _UVSec: 0
+    - _UseAltBaseColor: 0
+    - _VolumeStartZ: 400
+    - _Voronoi1Scale: 20
+    - _Voronoi2Scale: 3
+    - _VortexBeamBrightness: 0.01
+    - _VortexBeamRadius: 600
+    - _VortexMainBrightness: 0.01
+    - _VortexNoiseScale: 0.002
+    - _VortexTwistRadialRate: 0.01
+    - _VortexTwistTimeRate: 0.04
+    - _VortexTwistYRate: 0.002
+    - _YCompression: 1
+    - _ZTest: 2
+    - _ZWrite: 1
+    m_Colors:
+    - _AltBaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.6792453, g: 0.58285505, b: 0.028835872, a: 1}
+    - _CutPlane: {r: 0, g: 0, b: 1, a: 0}
+    - _CutoffHeights: {r: 1200, g: 1000, b: 500, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FogColor: {r: 1, g: 1, b: 1, a: 1}
+    - _HorizonCol: {r: 1, g: 1, b: 1, a: 1}
+    - _LightColor: {r: 1, g: 0, b: 0, a: 1}
+    - _RadiusSizes: {r: 1000, g: 600, b: 800, a: 300}
+    - _ShockwaveSource: {r: 0, g: 0, b: 0, a: 1}
+    - _SkyCol: {r: 1, g: 1, b: 1, a: 1}
+    - _TextureScale: {r: 5, g: 5, b: 0, a: 0}
+    - _VortexCenter: {r: 0, g: 0, b: 1000, a: 1}
