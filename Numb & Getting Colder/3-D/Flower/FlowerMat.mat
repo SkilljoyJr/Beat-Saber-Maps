@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FlowerMat
+  m_Shader: {fileID: 4800000, guid: 79d7569bbd303be428053caf0e42f5d2, type: 3}
+  m_ShaderKeywords: _SIMPLEMODE_ON _USEDITHER_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaCutoff: 0.5
+    - _AlphaSmooth: 0.1
+    - _AmbientStrength: 1.51
+    - _BaseBlockSize: 16
+    - _BasePixelSize: 500
+    - _BlendOp: 0
+    - _BlockSize: 16
+    - _Brightness: 0.58
+    - _BumpScale: 1
+    - _Contrast: 2.2
+    - _CullDistance: 500
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DistanceResEnd: 1000
+    - _DistanceResStart: 250
+    - _DistanceSmudge: 1
+    - _Distortion: 0.462
+    - _DistortionStrength: 1
+    - _DitherAmount: 0.5
+    - _DitherFar: 60.08
+    - _DitherFarScale: 1
+    - _DitherNear: -36.77
+    - _DitherNearScale: 1
+    - _DstBlend: 0
+    - _EnableSimpleColor: 0
+    - _FarColorBlend: 0
+    - _FarDistance: 500
+    - _FarFadeEnd: 25
+    - _FarFadeStart: 10
+    - _FarLighting: 0.2
+    - _FarNormal: 0
+    - _FarPixelSize: 18
+    - _FarRipple: 0.1
+    - _Flutter: 0
+    - _FlutterSpeed: 0.1
+    - _FocalAmount: 2
+    - _FragRes: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _GradientCenterX: 1
+    - _GradientDistance: 0.32
+    - _GradientEndX: 13.1
+    - _GradientEndY: 33.92
+    - _GradientRadius: 0.91
+    - _GradientStartX: -29.5
+    - _GradientStartY: 0
+    - _InnerBlend: 0.693
+    - _IridescenceStrength: 1.15
+    - _LightingFadeDistance: 25
+    - _MaxDistance: 42.6
+    - _MaxDistanceSmear: 2
+    - _MaxPixelSize: 40
+    - _MaxPixelStretch: 12
+    - _MaxSmudgeDistance: 20
+    - _Metallic: 0
+    - _MixRainbow: 0.8
+    - _Mode: 0
+    - _NearDistance: 5
+    - _NormalSmoothing: 0
+    - _OcclusionStrength: 1
+    - _OriginCullDistance: 5
+    - _OriginLODDistance: 21.62
+    - _OriginLODEnd: 60
+    - _OriginLODStart: 10
+    - _OriginPixelEnd: 40
+    - _OriginPixelStart: 5
+    - _OriginResolutionLoss: 8
+    - _Parallax: 0.02
+    - _PixelBlockSize: 8
+    - _PixelSize: 1
+    - _PixelSmear: 8
+    - _PixelSmearFar: 125.3
+    - _PixelSmearNear: 14.72
+    - _PixelSmearStart: 1
+    - _PixelSmearStrength: 8
+    - _PixelStep: 16
+    - _PixelateEnd: -32.08
+    - _PixelateStart: 2
+    - _Rainbow: 0
+    - _RainbowScale: 4
+    - _RainbowSpeed: 0.25
+    - _Reflectiveness: 0.25
+    - _ResolutionDropoff: 4
+    - _RippleSize: 6.74
+    - _Roundness: 1
+    - _ScrollSpeed: 0.1
+    - _ShadowStrength: 0.81
+    - _SimpleMode: 1
+    - _SimpleRoundness: 0.58
+    - _SimpleSmoothness: 4.49
+    - _SkipAmount: 6
+    - _SkipFragments: 0.5
+    - _SmearEndDistance: 1
+    - _SmearStartDistance: 0
+    - _Smoothness: 0.13
+    - _SmoothnessTextureChannel: 0
+    - _SmudgeDistance: 5
+    - _SmudgeStrength: 0.5
+    - _SoftEdgeStrength: 1
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _TimeScale: 1
+    - _Transparency: 0.251
+    - _UVSec: 0
+    - _UseDither: 1
+    - _VertexRes: 0
+    - _VoronoiIntensity: 1
+    - _VoronoiScale: 0
+    - _VoronoiSpeed: 10
+    - _WaveIterations: 4
+    - _WavePulse: 0.252
+    - _WaveSpeed: 7.1
+    - _WorldOptimizeEnd: 20
+    - _WorldOptimizeStart: 1
+    - _WorldOriginResolutionScale: 5
+    - _YCompression: 1
+    - _ZTest: 4
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorA: {r: 0.19999999, g: 0.20932959, b: 1, a: 1}
+    - _ColorB: {r: 0.9607843, g: 0.03137252, b: 0.48779455, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FlatColor: {r: 1, g: 0.5, b: 0.29999998, a: 0.8}
+    - _InnerColor: {r: 0, g: 0, b: 0, a: 1}
+    - _OuterColor: {r: 1, g: 0, b: 0, a: 1}
+    - _SimpleColor: {r: 0.2169168, g: 0.21537916, b: 0.8301887, a: 1}
+    - _SimpleInnerColor: {r: 1, g: 0, b: 0.7532816, a: 1}
+    - _SimpleOuterColor: {r: 0.023529433, g: 0.031766556, b: 0.99215686, a: 1}
+    - _TextureScale: {r: 5, g: 5, b: 0, a: 0}
