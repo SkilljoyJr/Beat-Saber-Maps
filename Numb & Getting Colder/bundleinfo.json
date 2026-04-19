@@ -1,0 +1,218 @@
+{
+  "materials": {
+    "dudodomat": {
+      "path": "assets/objects/particles/duhdudoododo/dudodomat.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Size": {
+          "value": 700.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Opacity": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_MaskRef": {
+          "value": 4.35,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FlickerScalar": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "explosionparticle": {
+      "path": "assets/objects/particles/explosions/explosionparticle.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Size": {
+          "value": 700.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Opacity": {
+          "value": 0.17,
+          "type": {
+            "Float": null
+          }
+        },
+        "_MaskRef": {
+          "value": 4.35,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FlickerScalar": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "blur": {
+      "path": "assets/post-fx/blur.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "radius": {
+          "value": 10.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "resolution": {
+          "value": 800.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "chromaticaberration": {
+      "path": "assets/post-fx/chromaticaberration.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_IntensityX": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_IntensityY": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "kickwow": {
+      "path": "assets/post-fx/kickwow.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Intensity": {
+          "value": 1.6,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_CenterFalloff": {
+          "value": 0.68,
+          "type": {
+            "Float": null
+          }
+        },
+        "_CenterX": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_CenterY": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "vignette": {
+      "path": "assets/post-fx/vignette.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_VignetteRadius": {
+          "value": 0.386,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VignetteFeather": {
+          "value": 0.501,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VignetteOpacity": {
+          "value": 0.719,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    }
+  },
+  "prefabs": {
+    "flowerbeam": "assets/objects/2-d/beam/flowerbeam.prefab",
+    "flower": "assets/objects/3-d/flower/flower.prefab",
+    "skibop": "assets/objects/3-d/skibop/skibop.prefab",
+    "skibop (1)": "assets/objects/3-d/skiboppoi/skibop.prefab",
+    "clicking": "assets/objects/particles/clicking/clicking.prefab",
+    "dudodod": "assets/objects/particles/duhdudoododo/dudodod.prefab",
+    "explosions": "assets/objects/particles/explosions/explosions.prefab",
+    "jingle": "assets/objects/particles/jingles/jingle.prefab",
+    "whatevenisthisnoise": "assets/objects/particles/jingles/whatevenisthisnoise.prefab",
+    "shootingstar": "assets/objects/particles/shooting star/shootingstar.prefab",
+    "thewholeassscene 1": "assets/scenes/thewholeassscene 1.prefab",
+    "thewholeassscene": "assets/scenes/thewholeassscene.prefab"
+  },
+  "bundleFiles": [
+    "C:/Users/Dylan/BSManager/BSInstances/1.40.4/Beat Saber_Data/CustomWIPLevels/Numb & Getting Colder/bundleWindows2021.vivify",
+    "C:/Users/Dylan/BSManager/BSInstances/1.40.4/Beat Saber_Data/CustomWIPLevels/Numb & Getting Colder/bundleWindows2019.vivify"
+  ],
+  "bundleCRCs": {
+    "_windows2021": 3328985048,
+    "_windows2019": 1974324503
+  },
+  "isCompressed": true
+}
